@@ -1,0 +1,7 @@
+Este es un oficio que avala que la persona de nombre 
+${nombre} ${apellido1} ${apelldo2}, que desempeña el cargo de ${cargo}
+en la empresa ${empresa}, con domicilio de residencia en la calle
+${calle}, con el numero ${numCalle}, en la colonia ${colonia}, del
+municipio ${municipio}, en el estado de ${estado}, con el codigo postal
+${codigoPostal}, con el numero de telefono ${telefono}, y la direccion email
+${email}, de ${edad} años de edad, definitivamente es una persona.

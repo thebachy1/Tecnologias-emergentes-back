@@ -1,0 +1,5 @@
+update:
+    http://127.0.0.1:8000/item/change/1?name=Alberto&apellido1=Curiel&apellido2=Calderon&cargo=Employee&empresa=Mcdonalds&calle=Centauro&numCalle=3068&colonia=La%20Calma&municipio=Zapopan&estado=Jalisco&codigoPostal=45070&telefono=3318191609&email=manuelcu2299@gmail.com&yearNacimiento=1999&monthNacimiento=4&dayNacimiento=22
+
+new:
+    http://127.0.0.1:8000/item/add/?name=Alberto&apellido1=Curiel&apellido2=Calderon&cargo=Employee&empresa=Mcdonalds&calle=Centauro&numCalle=3068&colonia=La%20Calma&municipio=Zapopan&estado=Jalisco&codigoPostal=45070&telefono=3318191609&email=manuelcu2299@gmail.com&yearNacimiento=1999&monthNacimiento=4&dayNacimiento=22    
